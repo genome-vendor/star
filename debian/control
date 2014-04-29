@@ -1,0 +1,16 @@
+Source: star2.3.1z1
+Section: science
+Priority: optional
+Maintainer: Genome Developers <genome-dev@genome.wustl.edu>
+DM-Upload-Allowed: yes
+Uploaders: Genome Developers <genome-dev@genome.wustl.edu>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.1
+Homepage: http://code.google.com/p/rna-star/
+
+Package: star2.3.1z1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: samtools
+Description: STAR: ultrafast universal RNA-seq aligner.
+

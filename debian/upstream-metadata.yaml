@@ -1,0 +1,20 @@
+Archive: SourceForge
+DOI: 10.1093/bioinformatics/btp324
+FAQ: http://bio-bwa.sourceforge.net/
+Homepage: http://bio-bwa.sourceforge.net/
+Name: Burrows-Wheeler Aligner
+PMID: 19451168
+Reference:
+ Article: HengLi07152009
+ Author: Li, Heng and Durbin, Richard
+ Title: Fast and accurate short read alignment with Burrows-Wheeler transform
+ Journal: Bioinformatics
+ Volume: 25
+ Number: 14
+ Pages: 1754-1760
+ Year: 2009
+ URL: http://bioinformatics.oxfordjournals.org/cgi/content/abstract/25/14/1754
+ Eprint: http://bioinformatics.oxfordjournals.org/cgi/reprint/25/14/1754.pdf
+References: http://bio-bwa.sourceforge.net/
+Repository: https://bio-bwa.svn.sourceforge.net/svnroot/bio-bwa
+Repository-Browse: http://bio-bwa.svn.sourceforge.net/viewvc/bio-bwa/
